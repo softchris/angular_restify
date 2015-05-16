@@ -1,0 +1,20 @@
+{
+  "name": "angular_restify",
+  "version": "1.0.0",
+  "authors": [
+    "christoffer noring"
+  ],
+  "description": "a lightweight REST lib for angular dev",
+  "keywords": [
+    "REST",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
