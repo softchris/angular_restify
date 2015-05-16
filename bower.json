@@ -9,7 +9,7 @@
     "REST",
     "angularjs"
   ],
-  main : [ "rest.js" ],
+  "main" : [ "rest.js" ],
   "license": "MIT",
   "ignore": [
     "**/.*",
